@@ -431,6 +431,7 @@ High-star, general-purpose voice/speech projects: end-to-end toolkits, wake-word
 | [Tavus](https://www.tavus.io/) | Real-time conversational video API. Transformer-based turn detection, multimodal video+voice. | 视频+语音多模态 |
 | [Unpod](https://unpod.ai) | Voice infrastructure platform for building AI-native phone and messaging agents. Handles real-time call routing, low-latency speech pipelines, and telephony + SMS automation. | 电话+消息自动化，AI 原生语音基础设施 \| [GitHub](https://github.com/geneffic/unpod) |
 | [voicetest](https://github.com/voicetestdev/voicetest) | Test harness for voice agents. Import from Retell, VAPI, Bland, LiveKit. Run simulations. Evaluate with LLM judges. | 开源测试工具，多平台支持 |
+| [VoiceOI](https://voiceoi.com) | No-code platform for outbound AI voice bots in call centers: bots join VICIdial campaigns as remote agents or dial through any SIP carrier, end calls on answering machines, and live-transfer qualified callers to human closers. Commercial, prepaid per bot from $30/month. | 商业产品：面向呼叫中心的无代码外呼 AI 语音机器人，可作为 VICIdial 远程坐席或通过任意 SIP 运营商拨号，并把合格的通话转接给人工坐席 |
 
 ### Evaluation & Benchmarking | 评测与基准
 
